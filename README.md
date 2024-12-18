@@ -1,3 +1,9 @@
+## Author
+**SHYAM KUMAR V**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**: CT08EOR 
+**Domain**: Frontend Web Development  
+**Duration**: Dec 17th 2024 to Jan 17th, 2025
 
 
 ## Find Meals For Your Ingredients
