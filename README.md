@@ -21,7 +21,7 @@ This is a simple web application that allows users to find recipes based on the 
 
 Follow these steps to set up the project on your local machine: 
 
-**website link** : https://recipe-finder-application-n8ydzwpvr.vercel.app/
+**Website link** : https://recipe-finder-application-n8ydzwpvr.vercel.app/
 
 
 ### Prerequisites
