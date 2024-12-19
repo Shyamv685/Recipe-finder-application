@@ -97,5 +97,16 @@ Contributions are welcome! Please follow these steps:
 5. Submit a pull request.
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## RECIPE OUTPUT RESULT
+**img 1**
+![rc1](https://github.com/user-attachments/assets/7cac385c-4f5a-4f98-8ea6-e2e2a874be53) 
+
+**img 2**
+![rc2](https://github.com/user-attachments/assets/c5e82d65-cd61-49b1-bc75-52202764da00) 
+
+**img 3**
+![rc3](https://github.com/user-attachments/assets/679f87dc-e751-4d67-b913-e863e91721bf)
+
